@@ -1,0 +1,2 @@
+# CalcExpOffSpring
+Easy Rosalind Question
